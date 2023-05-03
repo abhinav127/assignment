@@ -1,12 +1,20 @@
-Assignment - Source code
+<h4>Assignment - Source code</h4>
 
 Required Softwards
+<br>
 Node JS - v16 or above
+<br>
 NPM -v8 or above
 
+
+<br>
+<br>
 Step-1: Clone the Git repository
+<br>
 Step-2: npm install 
+<br>
 Step-3: node fibonacci.js or node balancedString.js
+<br>
 
 Explanation:
 
